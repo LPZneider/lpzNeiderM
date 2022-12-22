@@ -1,0 +1,33 @@
+@import url(/css/components.css);
+@import url(/css/startBar.css);
+@import url(/css/startHome.css);
+@import url(/css/mainHome.css);
+@import url(/css/mainGrid.css);
+@import url(/css/imageFixed.css);
+@import url(/css/middleSection.css);
+@import url(/css/form.css);
+@import url(/css/button.css);
+@import url(/css/footer.css);
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
+  font-family: 'Raleway', sans-serif;
+
+}
+body{
+  background-color: rgb(238, 211, 124);
+}
+a:hover{
+
+    color: rgb(48, 252, 7);
+  
+}
+
+
+
+
+
+

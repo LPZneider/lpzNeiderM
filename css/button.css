@@ -1,0 +1,13 @@
+.boton__flex{
+    display: flex;
+    justify-content: end;
+    margin-top: 1.4rem;
+}
+.boton{
+    border: none;
+    padding: 0.9rem 3.3rem;
+    font-size: 1.2rem;
+    background-color: #000;
+    color: #fff;
+
+}

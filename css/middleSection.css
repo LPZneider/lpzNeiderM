@@ -1,0 +1,14 @@
+.acerca-de h2 {
+    margin: 4rem auto 1.2rem;
+  }
+  .acerca-de p {
+    margin: 0 auto;
+    width: 50%;
+    font-size: 1.1rem;
+    letter-spacing: 2px;
+    line-height: 1.9rem;
+    opacity: 0.8;
+  }
+  .acerca-de {
+    height: 50vh;
+  }

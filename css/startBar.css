@@ -1,0 +1,16 @@
+.barra__principal {
+  z-index: 999;
+  position: fixed;
+  width: 100vw;
+  background-color: rgb(254, 254, 254);
+  height: 4rem;
+  padding: 1rem 3.8rem;
+  font-size: 2rem;
+  box-shadow: 2px 5px 4px rgba(0, 0, 0, 0.313);
+  
+}
+.barra__principal  a {
+  color: inherit;
+  text-decoration: none;
+  
+}

@@ -1,0 +1,7 @@
+.imagen__rayas {
+    height: 75vh;
+    background-image: url(/assets/22222.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    filter: sepia(1);
+  }

@@ -1,0 +1,13 @@
+.footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #993717;
+    height: 9vh;
+    text-align: center;
+    color: #fff;
+}
+.footer a{
+    color: inherit;
+}
